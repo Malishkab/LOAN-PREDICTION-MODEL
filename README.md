@@ -28,6 +28,5 @@ A machine learning application that predicts whether a loan application is likel
 
 
 
-## Author
 
 **Malishka Bhardwaj**
